@@ -1,6 +1,6 @@
 ## Financial Data Analytics - IBA Karachi
 
-This repository contains materials, code, and projects related to the Financial Data Analytics course at the Institute of Business Administration (IBA) Karachi.
+This account contains materials, code, and projects related to the Financial Data Analytics course at the Institute of Business Administration (IBA) Karachi.
 
 ## Course Overview
 
