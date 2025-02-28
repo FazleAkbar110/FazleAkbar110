@@ -8,10 +8,7 @@ This course covers fundamental concepts in financial data analysis, including da
 
 ## Repository Contents
 
-* **Assignments:** [Folder name: `Assignments/`] - Contains assignment notebooks and related files.
-* **Projects:** [Folder name: `Projects/`] - Includes project code, data, and reports.
-* **Datasets:** [Folder name: `Datasets/`] - Datasets used in assignments and projects.
-* **Resources:** [Folder name: `Resources/`] - Links to relevant articles, tutorials, and libraries.
+* **Assignments/Practice/Datasets:** [Repo name: `FDA_26420/`] - Contains assignments, practice documents, and all related files to the course.
 
 ## Maintainer
 
