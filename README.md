@@ -1,16 +1,21 @@
-## Hi there 👋
+## Financial Data Analytics - IBA Karachi
 
-<!--
-**FazleAkbar110/FazleAkbar110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains materials, code, and projects related to the Financial Data Analytics course at the Institute of Business Administration (IBA) Karachi.
 
-Here are some ideas to get you started:
+## Course Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This course covers fundamental concepts in financial data analysis, including data acquisition, cleaning, statistical modeling, and visualization, with applications in portfolio management, risk assessment, and algorithmic trading.
+
+## Repository Contents
+
+* **Assignments:** [Folder name: `Assignments/`] - Contains assignment notebooks and related files.
+* **Projects:** [Folder name: `Projects/`] - Includes project code, data, and reports.
+* **Datasets:** [Folder name: `Datasets/`] - Datasets used in assignments and projects.
+* **Resources:** [Folder name: `Resources/`] - Links to relevant articles, tutorials, and libraries.
+
+## Maintainer
+
+This repository is maintained by Fazle Akbar.
+
+* **Email:** f.akbar.26420@khi.iba.edu.pk
+* **GitHub:** FazleAkbar110
